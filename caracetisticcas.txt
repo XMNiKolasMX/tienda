@@ -1,0 +1,137 @@
+PC1 :
+CPU Intel Core i5 10400F
+2.9 GHz Cache 12MB
+Disco Sólido SSD 256 GB
+Memoria RAM 8GB DDR4 2666 MHz
+Monitor LED 19" HD Widescreen
+Mainboard H410 DVI/ HDMI
+Tarjeta de Video Nvidia GT1030 2GB 
+Kit Gamer: Teclado, mouse
+Fuente Real 550 W
+
+PC2 :
+CPU AMD Ryzen 3 4350G 3.8 / 4.0 GHz
+Caché L3 total 4MB, 4 núcleos, 8 hilos
+Disco Sólido SSD M.2 256 GB
+Memoria RAM 8GB 
+Monitor LED 19" HD
+Mainboard A320 HD2
+DVI/ HDMI / Display Port / Wifi
+Kit Gamer: Teclado y Mouse
+Fuente Real 550 W
+
+PC3 : 
+CPU AMD Ryzen 7 5700G 3.8 / 4.6GHz
+8 núcleos, 16 hilos
+Disco Sólido SSD 500GB M2 NVME
+Memoria RAM 16 GB DDR4/ 2666 MHz
+Monitor 24" Curvo FHD
+Mainboard A520 
+DVI/ HDMI/ Display Port / Wifi
+Teclado, mouse
+Fuente Real 550 W
+
+PC4: 
+CPU Intel Core I7 10700F
+2.90 GHz 16MB Caché L3
+Disco Duro 1TB
+Disco Sólido M2 500GB NVME
+Memoria RAM 32GB DDR4/ 2666MHz
+Mainboard B460 
+Monitor LED 27" FHD 
+Tarjeta de Video GTX1660 Super 6GB
+DVI/ HDMI/ Display Port/Wifi
+kit: teclado y mouse logitech mk120
+Fuente 700W Antryx XPII 80 Plus White
+
+PC5 :
+Core i5 4th Gen 
+4 Núcleos cache 6MB
+Disco duro HDD 500GB
+Disco Sólido SSD 240 GB
+Memoria RAM 16Gb DDR4
+Monitor Widescreen HD 19” 
+Mainboard Intel Q65 
+Tarjeta de Video GTX650 2GB GDDR5 380 cudas 64 Bits
+RJ45/ VGA/ Display Port
+Kit gamer
+Fuente de poder 240W
+
+PC6 :
+Core i5 4TH 2.9Hz
+Disco Duro HDD 1TB
+Disco Sólido SSD 256 GB
+Memoria RAM 32Gb DDR3 
+Monitor FHD 22” 
+Mainboard Intel Q65 
+Tarjeta de Video GTX750ti 4GB 
+USB3.0/ VGA/ Display Port / Wifi
+Kit teclado y mouse
+Fuente de poder 240W
+
+LAP1 :
+AMD Ryzen 3 5300U 2.6GHz
+4 núcleos, Caché 4MB
+Disco Sólido SSD M.2 500GB
+RAM 16GB DDR4 
+Pantalla 15.6" HD Brightview
+Gráficos AMD Radeon 
+Bluetooth 4.2 / Wifi
+WebCam HD 720p
+Teclado en español + numérico
+USB type C / HDMI
+Batería 3 celdas y 41Wh
+
+LAP2 :
+Marca : Acer
+Modelo : AN515-57-51L5
+Producto : Laptop Gaming
+Procesador : Core i5 - 11th Gen
+Tarjeta de video : NVIDIA GTX 1650
+Memoria RAM : 8GB DDR4
+Almacenamiento : 256GB (SSD)
+Pantalla : 15.6" FHD 144Hz
+Teclado : Español
+Sistema Operativo : Windows 11
+
+LAP3 :
+Marca : HP
+Modelo : 15-FA0031DX
+Producto : Laptop Gaming
+Procesador : Intel Core I5-12th
+Tarjeta de video : NVIDIA GTX 1650
+Memoria RAM : 8GB DDR4
+Almacenamiento : 512GB(SSD)
+Pantalla : 15.6" FHD 144Hz
+Teclado : Ingles
+Sistema Operativo : Windows 11
+
+
+JUEGO1 : COD WW2
+Call of Duty: WWII es un videojuego de disparos en primera persona desarrollado por Sledgehammer Games, distribuido por Activision, perteneciente a la franquicia Call of Duty y es la décimo cuarta entrega de la saga. La ambientación del juego se basa en la Segunda Guerra Mundial y rompió con la temática del futurismo de anteriores juegos de la saga. El tráiler sobre el modo historia se estrenó el 18 de septiembre de 2017.
+
+El videojuego salió a la venta el 3 de noviembre de 2017 para las consolas de PlayStation 4, Xbox One y Microsoft Windows.
+
+JUEGO2 : CSGO
+Counter-Strike: Global Offensive (CS:GO) es un videojuego de disparos en primera persona desarrollado por Valve Corporation y Hidden Path Entertainment. Es el cuarto juego de la saga Counter-Strike. Fue lanzado al mercado en agosto de 2012 para las plataformas de Microsoft Windows, macOS y Xbox 360 y PlayStation 3. La versión para Linux estuvo disponible al público en septiembre de 2014.
+
+El juego consiste en dos equipos, los Terroristas y los Antiterroristas (T y CT, respectivamente), los cuales se enfrentan entre ellos en diferentes modos de juego. El modo más común es en el cual el bando Terrorista tienen que plantar y defender una bomba mientras los Antiterroristas defender las zonas de plante de la bomba y su posterior desactivación. Hay 9 modos de juego oficiales, cada uno con sus características específicas. El juego también tiene un sistema de emparejamiento, que permite a los jugadores demostrar su nivel en servidores dedicados de la propia desarrolladora, además de servidores creados por la comunidad. A finales de 2018, CS:GO se unió a la moda de los Battle-Royale sacando su propio modo de juego, "Danger-Zone".
+
+JUEGO3 : LITTLE NIGHTMARES 2
+Little Nightmares 2 (estilizado como Little Nightmares II) es un videojuego de aventura, terror, plataformas y puzzles desarrollado por Tarsier Studios y publicado por Bandai Namco Entertainment. El juego fue anunciado en Gamescom 2019 como la secuela de Little Nightmares, y cuenta con un nuevo personaje de jugador, Mono, con el protagonista del juego anterior, Six, como un personaje controlado por computadora.1​2​ El juego se lanzó para Microsoft Windows, Google Stadia, Nintendo Switch, PlayStation 4 y Xbox One el 11 de febrero de 2021, y las versiones para PlayStation 5 y Xbox Series X/S se lanzarán en una fecha posterior en el mismo año.3​ La demostración se lanzó el 30 de octubre de 2020.
+
+JUEGO4 : The Orange Box
+The Orange Box, creado por Valve, es un paquete de videojuegos que contiene Half-Life 2, Half-Life 2: Episode One, Half-Life 2: Episode Two, Portal y Team Fortress 2. Fue lanzado para PC, Xbox 360 y PlayStation 3.
+
+La versión en Steam incluye tres juegos extra: Half-Life 2: Deathmatch, Half-Life 2: Lost Coast y Peggle Extreme.
+
+JUEGO5 : Grand Theft Auto 5
+Grand Theft Auto V (abreviado como GTA V o GTA 5) es un videojuego de acción-aventura de mundo abierto desarrollado por el estudio Rockstar North y distribuido por Rockstar Games. Fue lanzado el 17 de septiembre de 2013 para las consolas PlayStation 3 y Xbox 360.4​ Posteriormente, distribuido el 18 de noviembre de 2014 para las consolas de nueva generación PlayStation 4 y Xbox One y la vista en primera persona, luego para Microsoft Windows el 14 de abril de 2015 y finalmente se confirmó su lanzamiento para PlayStation 5 y Xbox Series X/S para marzo de 2022.5​6​Entre las novedades se encuentra la mejora de gráficos (8k) incluido el soporte de 120 FPS. Se trató del primer gran título en la serie Grand Theft Auto desde el lanzamiento de Grand Theft Auto IV en 2008, el cual estrenó la «era HD» de la mencionada serie de videojuegos.7​
+
+La primera información fue revelada por Rockstar Games el 25 de octubre de 2011 en la red social Twitter.8​ El juego está ambientado en la ciudad ficticia de Los Santos, así como en las zonas que la rodean, basada en la ciudad de Los Ángeles y el sur de California. La ciudad también era la ambientación del anterior juego GTA:San Andreas. Por primera vez el juego se centraría en tres personajes distintos en vez de uno solo: Michael, Trevor y Franklin, además del personaje que el jugador utiliza en el modo en línea. El tráiler de estreno de Grand Theft Auto V se dio a conocer el 2 de noviembre de 2011.9​
+
+Es uno de los juegos más caros de la historia, con un gasto de 265 millones de dólares, superando a su antecesor GTA IV —100 millones. Grand Theft Auto V recaudó 800 millones de dólares en las primeras 24 horas de su estreno,10​ lo que lo convirtió en el videojuego que más dinero había recaudado en menos tiempo de toda la historia; y había recaudado en 3 días un monto récord de 1000 millones de dólares en ventas.10​
+
+JUEGO6 : Mafia
+Mafia 1​ es un videojuego de disparos en tercera persona lineal de mundo abierto, desarrollado por la empresa checa Illusion Softworks en 2002 para PC, PlayStation 2 y Xbox. En él, el jugador toma el papel de Thomas Angelo, un conductor de taxi que se ve casi obligado a formar parte de la organización criminal que lleva Don Salieri. El juego se sitúa entre 1930 y 1938, durante la época de la Prohibición y el crecimiento de las mafias italoestadounidenses.
+
